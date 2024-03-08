@@ -1,0 +1,23 @@
+{
+  "about.qmd": {
+    "about.html": "3191502b"
+  },
+  "blog/index.qmd": {
+    "index.html": "b07f2fd2"
+  },
+  "blog/posts/2022-07-28-nbdev2/index.qmd": {
+    "index.html": "de3f1803"
+  },
+  "blog/posts/2022-08-25-jupyter-git/index.qmd": {
+    "index.html": "8ceaee74"
+  },
+  "blog/posts/post-with-code/index.qmd": {
+    "index.html": "564ea737"
+  },
+  "blog/posts/welcome/index.qmd": {
+    "index.html": "41764065"
+  },
+  "index.qmd": {
+    "index.html": "06688404"
+  }
+}
